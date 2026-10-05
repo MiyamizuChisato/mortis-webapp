@@ -1,0 +1,14 @@
+{
+  "UNKNOWN_ERROR": "Sorry, server has occur an unknown error.",
+  "INPUT_ERROR": "Your input has a illegal value, please chack your input",
+  "LOGIN_ERROR": "Your input email or password is not correct",
+  "OLD_PASSWORD_ERROR": "Your old password is not correct",
+  "EMAIL_NOT_FOUND": "Your input email is not sign up",
+  "EMAIL_NOT_BIND": "You have not bind email, place check it",
+  "SOCIAL_HAS_BOUND": "The social account has bound by other user",
+  "OAUTH_STATE_ERROR": "Oauth state has not correct, place try it again",
+  "TOKEN_NOT_FOUND": "Your login status has expire, place relogin",
+  "TOKEN_MISMATCH": "Your token has been modified, place relogin",
+  "OPERATE_BUSY": "Too many requests, please try again later.",
+  "VERIFY_CODE_ERROR": "Your verify code is not correct, place chack your email and try again"
+}

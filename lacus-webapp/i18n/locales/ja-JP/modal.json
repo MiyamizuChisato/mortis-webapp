@@ -1,0 +1,148 @@
+{
+  "modal": {
+    "login": {
+      "title": "おかえりなさい",
+      "description": "以下の情報を入力するか、SNSアカウントを使ってログインしてください",
+      "submit": "ログイン",
+      "register": "アカウントがない？新規登録へ",
+      "email": {
+        "label": "メールアドレス",
+        "placeholder": "メールアドレスを入力してください"
+      },
+      "password": {
+        "label": "パスワード",
+        "forget": "忘れですか？再設定へ",
+        "placeholder": "パスワードを入力してください"
+      }
+    },
+    "register": {
+      "title": "新規会員登録",
+      "description": "以下の情報を入力するか、SNSアカウントを使って登録してください",
+      "submit": "登録を確定する",
+      "login": "アカウントがある？ログインへ",
+      "nickname": {
+        "label": "ニックネーム",
+        "placeholder": "ニックネームを入力してください"
+      },
+      "email": {
+        "label": "メールアドレス",
+        "placeholder": "メールアドレスを入力してください",
+        "send": "認証コードを送信",
+        "reSend": "{seconds}秒後に再試行できます"
+      },
+      "code": {
+        "label": "認証コード",
+        "placeholder": "認証コードを入力してください"
+      },
+      "password": {
+        "label": "パスワード",
+        "placeholder": "パスワードを入力してください"
+      },
+      "pwd": {
+        "label": "パスワード（確認）",
+        "placeholder": "もう一度パスワードを入力してください"
+      }
+    },
+    "logout": {
+      "title": "ログアウト",
+      "description": "本当にログアウトしますか？",
+      "yes": "確定",
+      "no": "キャンセル"
+    },
+    "setPassword": {
+      "title": "パスワード更新",
+      "description": "アカウントの安全性を高めるため、定期的にパスワードを更新してください",
+      "submit": "パスワードを変更する",
+      "forgot": "パスワードをお忘れですか？再設定へ",
+      "oldPassword": {
+        "label": "現在のパスワード",
+        "placeholder": "現在のパスワードを入力してください"
+      },
+      "password": {
+        "label": "新しいパスワード",
+        "placeholder": "新しいパスワードを入力してください"
+      },
+      "pwd": {
+        "label": "新しいパスワード（確認）",
+        "placeholder": "もう一度新しいパスワードを入力してください"
+      }
+    },
+    "resetPassword": {
+      "title": "パスワード再設定",
+      "description": "メールアドレス認証後、パスワードを再設定します",
+      "submit": "パスワードを更新する",
+      "back": "戻る",
+      "email": {
+        "label": "メールアドレス",
+        "send": "認証コードを送信",
+        "reSend": "{seconds}秒後に再試行できます"
+      },
+      "code": {
+        "label": "認証コード",
+        "placeholder": "認証コードを入力してください"
+      },
+      "password": {
+        "label": "新しいパスワード",
+        "placeholder": "新しいパスワードを入力してください"
+      },
+      "pwd": {
+        "label": "新しいパスワード（確認）",
+        "placeholder": "もう一度新しいパスワードを入力してください"
+      }
+    },
+    "bindEmail": {
+      "title": "メールアドレス連携",
+      "description": "メールアドレスで認証コードを受信し、パスワードを設定します",
+      "submit": "連携を確定する",
+      "email": {
+        "label": "メールアドレス",
+        "placeholder": "メールアドレスを入力してください",
+        "send": "認証コードを送信",
+        "reSend": "{seconds}秒後に再試行できます"
+      },
+      "code": {
+        "label": "認証コード",
+        "placeholder": "認証コードを入力してください"
+      },
+      "password": {
+        "label": "パスワード",
+        "placeholder": "パスワードを入力してください"
+      },
+      "pwd": {
+        "label": "パスワード（確認）",
+        "placeholder": "もう一度パスワードを入力してください"
+      }
+    },
+    "unbindSocial": {
+      "title": "アカウント連携解除",
+      "description": "本当に【{source}】との連携を解除しますか？解除すると、この方法でのログインはできなくなります。この操作を行うには、事前にメールアドレスが登録されている必要があります。",
+      "yes": "確定",
+      "no": "キャンセル"
+    },
+    "oauth": {
+      "title": "または以下のアカウントでログイン"
+    },
+    "instantAdd": {
+      "title": "コメント投稿",
+      "description": "マナーを守って投稿してください。不適切なコメントは削除される場合があります。",
+      "submit": "送信",
+      "tips": "管理人成のみ閲覧可能（開発中）",
+      "content": {
+        "placeholder": "ここにコメントを入力してください..."
+      }
+    },
+    "instantDetail": {
+      "title": "コメント詳細",
+      "description": "コメントの詳細を確認し、返信や返答ができます",
+      "submit": "返信する",
+      "pre": "前のページ",
+      "next": "次のページ",
+      "content": {
+        "placeholder": "ここに返信を入力してください..."
+      },
+      "tips": "返信するにはログインしてください",
+      "reply": "返信",
+      "cancel": "キャンセル"
+    }
+  }
+}

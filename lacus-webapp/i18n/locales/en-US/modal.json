@@ -1,0 +1,148 @@
+{
+  "modal": {
+    "login": {
+      "title": "Welcome Back",
+      "description": "Please fill in the information below or log in using a social account",
+      "submit": "Log In",
+      "register": "Don't have an account? Register",
+      "email": {
+        "label": "Email",
+        "placeholder": "Please enter your email address"
+      },
+      "password": {
+        "label": "Password",
+        "forget": "Forgot password? Reset",
+        "placeholder": "Please enter your password"
+      }
+    },
+    "register": {
+      "title": "Create Account",
+      "description": "Please fill in the information below or register using a social account",
+      "submit": "Register Now",
+      "login": "Already have an account? Log In",
+      "nickname": {
+        "label": "Nickname",
+        "placeholder": "Please enter your nickname"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Please enter your email address",
+        "send": "Send Code",
+        "reSend": "Retry in {seconds} seconds"
+      },
+      "code": {
+        "label": "Verification Code",
+        "placeholder": "Please enter verification code"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Please enter your password"
+      },
+      "pwd": {
+        "label": "Confirm Password",
+        "placeholder": "Please confirm your password"
+      }
+    },
+    "logout": {
+      "title": "Log Out",
+      "description": "Are you sure you want to log out?",
+      "yes": "Confirm",
+      "no": "Cancel"
+    },
+    "setPassword": {
+      "title": "Update Password",
+      "description": "Update your password regularly to improve account security",
+      "submit": "Change Password",
+      "forgot": "Forgot password? Reset",
+      "oldPassword": {
+        "label": "Current Password",
+        "placeholder": "Please enter your current password"
+      },
+      "password": {
+        "label": "New Password",
+        "placeholder": "Please enter your new password"
+      },
+      "pwd": {
+        "label": "Confirm New Password",
+        "placeholder": "Please confirm your new password"
+      }
+    },
+    "resetPassword": {
+      "title": "Reset Password",
+      "description": "Reset your password after verifying your email",
+      "submit": "Update Password",
+      "back": "Back",
+      "email": {
+        "label": "Email",
+        "send": "Send Code",
+        "reSend": "Retry in {seconds} seconds"
+      },
+      "code": {
+        "label": "Verification Code",
+        "placeholder": "Please enter verification code"
+      },
+      "password": {
+        "label": "New Password",
+        "placeholder": "Please enter your new password"
+      },
+      "pwd": {
+        "label": "Confirm New Password",
+        "placeholder": "Please confirm your new password"
+      }
+    },
+    "bindEmail": {
+      "title": "Link Email",
+      "description": "Get a verification code via email and set your password",
+      "submit": "Confirm Link",
+      "email": {
+        "label": "Email",
+        "placeholder": "Please enter your email address",
+        "send": "Send Code",
+        "reSend": "Retry in {seconds} seconds"
+      },
+      "code": {
+        "label": "Verification Code",
+        "placeholder": "Please enter verification code"
+      },
+      "password": {
+        "label": "Password",
+        "placeholder": "Please enter your password"
+      },
+      "pwd": {
+        "label": "Confirm Password",
+        "placeholder": "Please confirm your password"
+      }
+    },
+    "unbindSocial": {
+      "title": "Unlink Account",
+      "description": "Are you sure you want to unlink your [{source}] account? After unlinking, you will no longer be able to log in using this method. Please ensure an email is linked to this account before proceeding.",
+      "yes": "Confirm",
+      "no": "Cancel"
+    },
+    "oauth": {
+      "title": "Or log in with"
+    },
+    "instantAdd": {
+      "title": "New Comment",
+      "description": "Please keep comments respectful. Inappropriate content will be deleted.",
+      "submit": "Send",
+      "tips": "Visible to admin only (Under development)",
+      "content": {
+        "placeholder": "Type your comment here..."
+      }
+    },
+    "instantDetail": {
+      "title": "Comment Details",
+      "description": "View full comment and leave a reply",
+      "submit": "Submit",
+      "pre": "Previous",
+      "next": "Next",
+      "content": {
+        "placeholder": "Type your reply here..."
+      },
+      "tips": "Please log in before replying",
+      "reply": "Reply",
+      "cancel": "Cancel"
+    }
+  }
+}

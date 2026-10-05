@@ -1,0 +1,25 @@
+{
+  "friend": {
+    "hero": {
+      "title": "Join Friends",
+      "tabs": {
+        "info": "My Info",
+        "apply": "Apply"
+      }
+    },
+    "meta": {
+      "administrator": "Admin",
+      "title": "Title",
+      "description": "Bio",
+      "website": "URL",
+      "avatar": "Avatar"
+    },
+    "rule": "Rules",
+    "ruleA": "Capable of long-term updates and maintenance, delivering valuable content.",
+    "ruleB": "Original content. AI assistance is fine, but full AI generation is not accepted.",
+    "method": "How to Apply",
+    "methodA": "Refer to my info and send an email to {email} containing your site's Admin, Title, Bio, URL, and Avatar.",
+    "methodB": "Developers can also register an account, log in to get a token via cookies, set the request header: ( authorization : token ), request body: ( administrator, title, description, website, avatar ), and send a POST request to https://mortis.uno/api/friend.",
+    "tips": "For efficiency, please add this site to your links before applying. I will respond within 1 day after submission."
+  }
+}

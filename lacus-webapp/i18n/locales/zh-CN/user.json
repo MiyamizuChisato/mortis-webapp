@@ -1,0 +1,37 @@
+{
+  "user": {
+    "edit": "编辑",
+    "setting": "设置",
+    "save": "保存",
+    "bound": "已绑定",
+    "unbound": "未绑定",
+    "unsetMotto": "暂无签名",
+    "profile": {
+      "label": "个人信息",
+      "tag": "用户标识",
+      "avatar": "头像",
+      "nickname": "昵称",
+      "motto": "签名",
+      "createDate": "注册日期",
+      "gender": "性别",
+      "birthday": "生日",
+      "location": "住址",
+      "profession": "职业",
+      "website": "主页",
+      "choseDate": "选择日期"
+    },
+    "security": {
+      "label": "账号安全",
+      "email": "邮箱",
+      "password": "密码",
+      "update": "更新",
+      "bind": "绑定",
+      "unbind": "解绑"
+    },
+    "gender": {
+      "man": "男",
+      "woman": "女",
+      "unknown": "保密"
+    }
+  }
+}

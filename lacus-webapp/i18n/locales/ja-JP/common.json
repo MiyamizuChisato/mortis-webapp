@@ -1,0 +1,41 @@
+{
+  "routes": {
+    "index": "ホーム",
+    "article": "記事",
+    "instant": "ひとこと",
+    "friend": "リンク",
+    "about": "運営者"
+  },
+  "setting": {
+    "search": "サイト内検索",
+    "board": "ダッシュボード"
+  },
+  "panel": {
+    "title": "コントロールセンター",
+    "description": "ページの切り替えや環境設定の変更ができます",
+    "nav": "ナビゲーション",
+    "language": "言語",
+    "theme": {
+      "label": "テーマ",
+      "system": "システムに従う",
+      "light": "ライト",
+      "dark": "ダーク"
+    },
+    "account": {
+      "label": "アカウント",
+      "edit": "編集",
+      "logout": "ログアウト",
+      "offline": {
+        "title": "ログインしていません",
+        "description": "まだログインしていません。メールアドレスまたはSNSアカウントでログインしてください。",
+        "login": "ログイン",
+        "register": "新規登録"
+      },
+      "online": {
+        "motto": "ステータスメッセージ未設定",
+        "edit": "プロファイル編集",
+        "logout": "ログアウト"
+      }
+    }
+  }
+}

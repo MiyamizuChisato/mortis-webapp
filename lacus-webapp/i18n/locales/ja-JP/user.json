@@ -1,0 +1,37 @@
+{
+  "user": {
+    "edit": "編集",
+    "setting": "設定",
+    "save": "保存",
+    "bound": "連携済み",
+    "unbound": "未連携",
+    "unsetMotto": "署名なし",
+    "profile": {
+      "label": "プロフィール",
+      "tag": "身分",
+      "avatar": "アバター",
+      "nickname": "ニックネーム",
+      "motto": "自己紹介",
+      "createDate": "登録日",
+      "gender": "性別",
+      "birthday": "誕生日",
+      "location": "居住地",
+      "profession": "職業",
+      "website": "ウェブサイト",
+      "choseDate": "日付を選択"
+    },
+    "security": {
+      "label": "セキュリティ",
+      "email": "メールアドレス",
+      "password": "パスワード",
+      "update": "更新",
+      "bind": "連携",
+      "unbind": "解除"
+    },
+    "gender": {
+      "man": "男",
+      "woman": "女",
+      "unknown": "未知"
+    }
+  }
+}

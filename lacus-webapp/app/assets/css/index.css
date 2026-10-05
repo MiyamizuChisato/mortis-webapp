@@ -1,0 +1,30 @@
+:root {
+    --vaul-overlay-background: 255, 255, 255;
+    --vaul-overlay-background-start: rgba(0, 0, 0, 0);
+    --vaul-overlay-background-end: rgba(0, 0, 0, 0.4);
+    font-family: "Noto Sans SC", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    box-sizing: border-box;
+    scroll-padding-top: 72px;
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Logirent';
+    src: url(https://static.mortis.uno/resource/font/logirent.woff2);
+}
+@font-face {
+    font-display: swap;
+    font-family: 'DouyinSans';
+    src: url(https://static.mortis.uno/resource/font/DouyinSansBold.ttf);
+}
+.scrollbar-hidden {
+    -ms-overflow-style: none;  /* IE和Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+    width: 0;
+    display: none; /* Chrome/Safari/Opera */
+}

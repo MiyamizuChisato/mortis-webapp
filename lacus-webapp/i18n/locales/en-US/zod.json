@@ -1,0 +1,16 @@
+{
+  "zod": {
+    "user": {
+      "nickname": "Nickname must not exceed 8 characters",
+      "email": "Invalid email address format",
+      "password": "Please enter a password that is 8-16 characters long and contains both letters and numbers",
+      "pwd": "The two passwords do not match. Please check your input",
+      "code": "The verification code must be 6 digits",
+      "emailUsed": "This email address is already registered",
+      "emailNotFound": "Email address not found"
+    },
+    "instant": {
+      "content": "The message must be at least 5 characters long"
+    }
+  }
+}

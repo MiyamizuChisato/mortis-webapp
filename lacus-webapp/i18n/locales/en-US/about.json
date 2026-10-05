@@ -1,0 +1,69 @@
+{
+  "about": {
+    "hero": {
+      "header": "👋 Hello, nice to meet you",
+      "neck": "I'm Chisato",
+      "content": "A programmer and independent developer"
+    },
+    "pursue": {
+      "header": "Pursuit",
+      "neckA": "Driven by",
+      "neckB": "passion to create",
+      "neckC": "products"
+    },
+    "skill": {
+      "header": "Skills",
+      "neck": "Unlocking creativity"
+    },
+    "career": {
+      "header": "Career",
+      "neck": "Progress never stops"
+    },
+    "mettle": {
+      "header": "Personality",
+      "neckA": "Architect",
+      "neckB": "INTJ-T",
+      "footer": "Go to {path} to learn more about INTJ-T"
+    },
+    "motto": {
+      "header": "Motto",
+      "neck": "It's nothing"
+    },
+    "advantage": {
+      "header": "Strengths",
+      "neckA": "Super learning ability like the Sharingan",
+      "neckB": "Wide range of knowledge, knowing a bit of everything"
+    },
+    "game": {
+      "header": "Game Preferences",
+      "neck": "Monster Hunter: World - Iceborne",
+      "footer": "Favorite Weapons"
+    },
+    "music": {
+      "header": "Music Preferences",
+      "neckA": "Yorushika",
+      "neckB": "Ave Mujica",
+      "footer": "Punk Rock, Folk"
+    },
+    "statistics": {
+      "header": "Visitor Stats",
+      "today": "Today",
+      "yesterday": "Yesterday",
+      "week": "Week",
+      "month": "Month",
+      "year": "Year"
+    },
+    "location": {
+      "header": "Location"
+    },
+    "info": {
+      "header": "My Info",
+      "born": "Born",
+      "year": "2000",
+      "university": "Chengdu Normal University",
+      "major": "Computer Science",
+      "profession": "Profession",
+      "job": "Programmer"
+    }
+  }
+}

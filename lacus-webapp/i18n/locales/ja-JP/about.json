@@ -1,0 +1,69 @@
+{
+  "about": {
+    "hero": {
+      "header": "👋 はじめまして、よろしくお願いします",
+      "neck": "ちさと（Chisato）です",
+      "content": "プログラマー、個人開発者"
+    },
+    "pursue": {
+      "header": "追求",
+      "neckA": "熱意から",
+      "neckB": "プロダクトを",
+      "neckC": "創り出す"
+    },
+    "skill": {
+      "header": "スキル",
+      "neck": "創造力を解き放つ"
+    },
+    "career": {
+      "header": "経歴",
+      "neck": "進化に終わりなし"
+    },
+    "mettle": {
+      "header": "性格",
+      "neckA": "建築家",
+      "neckB": "INTJ-T",
+      "footer": "{path} でINTJ-Tの詳細を見る"
+    },
+    "motto": {
+      "header": "座右の銘",
+      "neck": "なんでもないや"
+    },
+    "advantage": {
+      "header": "強み",
+      "neckA": "写輪眼レベルの圧倒的な学習能力",
+      "neckB": "幅広い知識、何でも少しずつ知っている"
+    },
+    "game": {
+      "header": "ゲーム好み",
+      "neck": "モンスターハンターワールド：アイスボーン",
+      "footer": "得意武器"
+    },
+    "music": {
+      "header": "音楽好み",
+      "neckA": "ヨルシカ",
+      "neckB": "Ave Mujica",
+      "footer": "パンクロック、フォーク"
+    },
+    "statistics": {
+      "header": "アクセスデータ",
+      "today": "今日",
+      "yesterday": "昨日",
+      "week": "今週",
+      "month": "今月",
+      "year": "今年"
+    },
+    "location": {
+      "header": "居住地"
+    },
+    "info": {
+      "header": "プロフィール",
+      "born": "生まれ",
+      "year": "2000年",
+      "university": "成都師範大学",
+      "major": "コンピュータサイエンス",
+      "profession": "職業",
+      "job": "プログラマー"
+    }
+  }
+}

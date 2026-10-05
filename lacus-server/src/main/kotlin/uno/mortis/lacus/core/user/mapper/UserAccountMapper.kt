@@ -1,0 +1,9 @@
+package uno.mortis.lacus.core.user.mapper
+
+import com.baomidou.mybatisplus.core.mapper.BaseMapper
+import org.apache.ibatis.annotations.Mapper
+import uno.mortis.lacus.core.user.entity.UserAccount
+
+@Mapper
+interface UserAccountMapper: BaseMapper<UserAccount> {
+}

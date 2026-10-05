@@ -1,0 +1,25 @@
+{
+  "friend": {
+    "hero": {
+      "title": "加入友链",
+      "tabs": {
+        "info": "我的信息",
+        "apply": "申请友链"
+      }
+    },
+    "meta": {
+      "administrator": "站长",
+      "title": "标题",
+      "description": "简介",
+      "website": "地址",
+      "avatar": "头像"
+    },
+    "rule": "申请规则",
+    "ruleA": "能够长期更新维护，并输出有价值的内容",
+    "ruleB": "内容原创，可由AI辅助，但非全文AI生成",
+    "method": "申请方式",
+    "methodA": "参考我的信息，发送包含贵站「站长」、「标题」、「简介」、「地址」、「头像」的邮件到 {email}",
+    "methodB": "技术人员还可以注册账号，登录后通过cookie获取token，设置请求头：( authorization : token )；请求体：( administrator, title, description, website, avatar )；发送Post请求到https://mortis.uno/api/friend",
+    "tips": "为了更高的效率，请在申请前，添加本站的友链，申请后，我会在1天内给出回复"
+  }
+}

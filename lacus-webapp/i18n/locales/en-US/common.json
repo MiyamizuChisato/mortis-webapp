@@ -1,0 +1,41 @@
+{
+  "routes": {
+    "index": "Home",
+    "article": "Articles",
+    "instant": "Instants",
+    "friend": "Friends",
+    "about": "About"
+  },
+  "setting": {
+    "search": "Search",
+    "board": "Dashboard"
+  },
+  "panel": {
+    "title": "Control Center",
+    "description": "Switch pages or change your preferences",
+    "nav": "Navigation",
+    "language": "Language",
+    "theme": {
+      "label": "Theme",
+      "system": "System",
+      "light": "Light",
+      "dark": "Dark"
+    },
+    "account": {
+      "label": "Account",
+      "edit": "edit",
+      "logout": "logout",
+      "offline": {
+        "title": "Not Logged In",
+        "description": "You are not logged in yet. Please log in using your email or social account.",
+        "login": "Log In",
+        "register": "Register"
+      },
+      "online": {
+        "motto": "No bio yet",
+        "edit": "Edit Profile",
+        "logout": "Log Out"
+      }
+    }
+  }
+}

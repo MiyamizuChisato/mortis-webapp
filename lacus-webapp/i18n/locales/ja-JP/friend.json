@@ -1,0 +1,25 @@
+{
+  "friend": {
+    "hero": {
+      "title": "リンク集に参加",
+      "tabs": {
+        "info": "管理者の情報",
+        "apply": "申請"
+      }
+    },
+    "meta": {
+      "administrator": "管理者",
+      "title": "タイトル",
+      "description": "サイト説明",
+      "website": "URL",
+      "avatar": "アバター"
+    },
+    "rule": "申請ルール",
+    "ruleA": "長期的に更新・維持され、価値のあるコンテンツを発信していること。",
+    "ruleB": "オリジナルコンテンツであること。AIの補助は可能ですが、全文AI生成は不可とします。",
+    "method": "申請方法",
+    "methodA": "管理者の情報を参考に、貴サイトの「管理者」「タイトル」「サイト説明」「URL」「アバター」を記載したメールを {email} 宛てに送信してください。",
+    "methodB": "エンジニアの方は、アカウント登録後にログインし、cookieからトークンを取得して、リクエストヘッダー：( authorization : token )、リクエストボディ：( administrator, title, description, website, avatar ) を設定の上、https://mortis.uno/api/friend へPOSTリクエストを送信することも可能です。",
+    "tips": "スムーズな承認のため、申請前に当サイトのリンクを追加しておいてください。申請後、1日以内に返信いたします。"
+  }
+}

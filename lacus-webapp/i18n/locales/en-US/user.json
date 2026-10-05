@@ -1,0 +1,37 @@
+{
+  "user": {
+    "edit": "Edit",
+    "setting": "Settings",
+    "save": "Save",
+    "bound": "Linked",
+    "unbound": "Not Linked",
+    "unsetMotto": "No signature yet.",
+    "profile": {
+      "label": "Profile",
+      "tag": "UID",
+      "avatar": "Avatar",
+      "nickname": "Nickname",
+      "motto": "Bio",
+      "createDate": "Registration Date",
+      "gender": "Gender",
+      "birthday": "Birthday",
+      "location": "Location",
+      "profession": "Profession",
+      "website": "Website",
+      "choseDate": "Select Date"
+    },
+    "security": {
+      "label": "Security",
+      "email": "Email",
+      "password": "Password",
+      "update": "Update",
+      "bind": "Link",
+      "unbind": "Unlink"
+    },
+    "gender": {
+      "man": "man",
+      "woman": "woman",
+      "unknown": "unknown"
+    }
+  }
+}

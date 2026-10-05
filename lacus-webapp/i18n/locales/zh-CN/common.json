@@ -1,0 +1,41 @@
+{
+  "routes": {
+    "index": "主页",
+    "article": "文章",
+    "instant": "一言",
+    "friend": "友邻",
+    "about": "关于"
+  },
+  "setting": {
+    "search": "站内搜索",
+    "board": "中控台"
+  },
+  "panel": {
+    "title": "控制中心",
+    "description": "切换页面，或者更改偏好设置",
+    "nav": "导航",
+    "language": "语言",
+    "theme": {
+      "label": "主题",
+      "system": "跟随系统",
+      "light": "明亮",
+      "dark": "暗黑"
+    },
+    "account": {
+      "label": "账号",
+      "edit": "编辑",
+      "logout": "退出",
+      "offline": {
+        "title": "未登录",
+        "description": "你还没有登录，请使用你的电子邮箱或者社交账号进行登录",
+        "login": "登录",
+        "register": "注册"
+      },
+      "online": {
+        "motto": "暂未填写签名",
+        "edit": "编辑信息",
+        "logout": "退出登录"
+      }
+    }
+  }
+}
